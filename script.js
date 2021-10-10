@@ -196,4 +196,18 @@ myLocalScope();
 console.log('outside myLocalScope', myVar);
 
 
+//Global vs. Local Scope in Functions
+var outerWear = "T-Shirt";
+
+function myOutfit() {
+    // Only change code below this line
+    let outerWear = 'sweater';
+
+
+    // Only change code above this line
+    return outerWear;
+}
+
+myOutfit();
+
 //
