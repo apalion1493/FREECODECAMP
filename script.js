@@ -87,7 +87,11 @@ var myStr8 = "Jello World";
 myStr8 = "Hello World"; // Change this line
 
 //Use Bracket Notation to Find the Nth Character in a String
+// var lastName = "Lovelace";
+// var thirdLetterOfLastName = lastName[2]; // Change this line
+
+//Use Bracket Notation to Find the Last Character in a String
 var lastName = "Lovelace";
-var thirdLetterOfLastName = lastName[2]; // Change this line
+var lastLetterOfLastName = lastName[lastName.length - 1]; // Change this line
 
 //
