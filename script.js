@@ -70,4 +70,10 @@ var someAdjective = 'xxx';
 var myStr6 = "Learning to code is ";
 myStr6 += someAdjective;
 
+//Find the Length of a String
+var lastNameLength = 0;
+var lastName = "Lovelace";
+
+lastNameLength = lastName.length;
+
 //
