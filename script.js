@@ -61,4 +61,8 @@ var myStr3 = "This is the start. " + "This is the end.";
 var myStr4 = "This is the first sentence. ";
 myStr4 += "This is the second sentence."
 
+//Constructing Strings with Variables
+var myName = 'Alex';
+var myStr5 = 'My name is ' + myName + ' and I am well!';
+
 //
