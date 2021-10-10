@@ -142,4 +142,23 @@ var myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul",35]);
 
-//
+//Shopping List
+var myList = [
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15],
+    ["Chocolate Bar", 15]
+];
+
+//Write Reusable JavaScript with Functions
+function reusableFunction() {
+    console.log('Hi World')
+}
+reusableFunction();
+
+//Passing Values to Functions with Arguments
+function functionWithArgs(a, b) {
+    console.log(a + b);
+}
+functionWithArgs(2, 2)
