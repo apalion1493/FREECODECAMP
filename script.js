@@ -109,4 +109,7 @@ var wordBlanks = `${myNoun} ${myAdjective} ${myVerb} ${myAdverb}`; // Change thi
 //Store Multiple Values in one Variable using JavaScript Arrays
 var myArray = ['sdfs', 123];
 
+//Nest one Array within Another Array
+var myArray2 = [["Bulls", 23], ["White Sox", 45]];
+
 //
