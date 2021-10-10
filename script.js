@@ -57,4 +57,8 @@ var myStr2 = 'FirstLine\n\t\\SecondLine\nThirdLine';
 //Concatenating Strings with Plus Operator
 var myStr3 = "This is the start. " + "This is the end.";
 
+//Concatenating Strings with the Plus Equals Operator
+var myStr4 = "This is the first sentence. ";
+myStr4 += "This is the second sentence."
+
 //
