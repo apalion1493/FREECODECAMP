@@ -121,8 +121,10 @@ var myArray2 = [["Bulls", 23], ["White Sox", 45]];
 // myArray4[0] = 45;
 
 //Access Multi-Dimensional Arrays With Indexes
-var myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
-
-var myData = myArray[2][1];
-
+// var myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
 //
+// var myData = myArray[2][1];
+
+//Manipulate Arrays With push()
+var myArray = [["John", 23], ["cat", 2]];
+myArray.push(["dog", 3]);
