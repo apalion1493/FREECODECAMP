@@ -49,7 +49,7 @@ let myLastName = 'Petrovich';
 // var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 
 //Quoting Strings with Single Quotes
-var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+var myStr = '<a href="https://www.example.com" target="_blank">Link</a>';
 
 //Escape Sequences in Strings
 var myStr2 = 'FirstLine\n\t\\SecondLine\nThirdLine';
@@ -83,7 +83,7 @@ myStr6 += someAdjective;
 // firstLetterOfLastName = lastName[0];
 
 //Understand String Immutability
-var myStr8 = "Jello World";
+let myStr8 = "Jello World";
 myStr8 = "Hello World"; // Change this line
 
 //Use Bracket Notation to Find the Nth Character in a String
@@ -111,5 +111,9 @@ var myArray = ['sdfs', 123];
 
 //Nest one Array within Another Array
 var myArray2 = [["Bulls", 23], ["White Sox", 45]];
+
+//Access Array Data with Indexes
+var myArray3 = [50,60,70];
+let myData = myArray3[0];
 
 //
