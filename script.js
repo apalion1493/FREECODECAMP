@@ -65,4 +65,9 @@ myStr4 += "This is the second sentence."
 var myName = 'Alex';
 var myStr5 = 'My name is ' + myName + ' and I am well!';
 
+//Appending Variables to Strings
+var someAdjective = 'xxx';
+var myStr6 = "Learning to code is ";
+myStr6 += someAdjective;
+
 //
