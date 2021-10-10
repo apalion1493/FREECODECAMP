@@ -82,4 +82,8 @@ var lastName = "Lovelace";
 
 firstLetterOfLastName = lastName[0];
 
+//Understand String Immutability
+var myStr8 = "Jello World";
+myStr8 = "Hello World"; // Change this line
+
 //
