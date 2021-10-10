@@ -105,3 +105,8 @@ var myVerb = "ran";
 var myAdverb = "quickly";
 
 var wordBlanks = `${myNoun} ${myAdjective} ${myVerb} ${myAdverb}`; // Change this line
+
+//Store Multiple Values in one Variable using JavaScript Arrays
+var myArray = ['sdfs', 123];
+
+//
