@@ -77,13 +77,17 @@ myStr6 += someAdjective;
 // lastNameLength = lastName.length;
 
 //Use Bracket Notation to Find the First Character in a String
-var firstLetterOfLastName = "";
-var lastName = "Lovelace";
-
-firstLetterOfLastName = lastName[0];
+// var firstLetterOfLastName = "";
+// var lastName = "Lovelace";
+//
+// firstLetterOfLastName = lastName[0];
 
 //Understand String Immutability
 var myStr8 = "Jello World";
 myStr8 = "Hello World"; // Change this line
+
+//Use Bracket Notation to Find the Nth Character in a String
+var lastName = "Lovelace";
+var thirdLetterOfLastName = lastName[2]; // Change this line
 
 //
