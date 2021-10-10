@@ -54,4 +54,7 @@ var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 //Escape Sequences in Strings
 var myStr2 = 'FirstLine\n\t\\SecondLine\nThirdLine';
 
+//Concatenating Strings with Plus Operator
+var myStr3 = "This is the start. " + "This is the end.";
+
 //
