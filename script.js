@@ -45,4 +45,7 @@
 let myFirstName = 'Alex';
 let myLastName = 'Petrovich';
 
+//Escaping Literal Quotes in Strings
+var myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+
 //
