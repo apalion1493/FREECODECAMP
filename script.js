@@ -98,4 +98,10 @@ myStr8 = "Hello World"; // Change this line
 var lastName = "Lovelace";
 var secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
 
-//
+//Word Blanks
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+var wordBlanks = `${myNoun} ${myAdjective} ${myVerb} ${myAdverb}`; // Change this line
