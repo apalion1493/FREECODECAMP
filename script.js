@@ -71,9 +71,15 @@ var myStr6 = "Learning to code is ";
 myStr6 += someAdjective;
 
 //Find the Length of a String
-var lastNameLength = 0;
+// var lastNameLength = 0;
+// var lastName = "Lovelace";
+//
+// lastNameLength = lastName.length;
+
+//Use Bracket Notation to Find the First Character in a String
+var firstLetterOfLastName = "";
 var lastName = "Lovelace";
 
-lastNameLength = lastName.length;
+firstLetterOfLastName = lastName[0];
 
 //
