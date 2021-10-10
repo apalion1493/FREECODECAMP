@@ -116,4 +116,8 @@ var myArray2 = [["Bulls", 23], ["White Sox", 45]];
 var myArray3 = [50,60,70];
 let myData = myArray3[0];
 
+//Modify Array Data With Indexes
+var myArray4 = [18,64,99];
+myArray4[0] = 45;
+
 //
