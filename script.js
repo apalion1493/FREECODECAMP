@@ -126,5 +126,11 @@ var myArray2 = [["Bulls", 23], ["White Sox", 45]];
 // var myData = myArray[2][1];
 
 //Manipulate Arrays With push()
+// var myArray = [["John", 23], ["cat", 2]];
+// myArray.push(["dog", 3]);
+
+//Manipulate Arrays With pop()
 var myArray = [["John", 23], ["cat", 2]];
-myArray.push(["dog", 3]);
+var removedFromMyArray = myArray.pop();
+
+//
