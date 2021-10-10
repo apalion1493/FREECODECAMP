@@ -130,7 +130,9 @@ var myArray2 = [["Bulls", 23], ["White Sox", 45]];
 // myArray.push(["dog", 3]);
 
 //Manipulate Arrays With pop()
-var myArray = [["John", 23], ["cat", 2]];
-var removedFromMyArray = myArray.pop();
+// var myArray = [["John", 23], ["cat", 2]];
+// var removedFromMyArray = myArray.pop();
 
-//
+//Manipulate Arrays With shift()
+var myArray = [["John", 23], ["dog", 3]];
+var removedFromMyArray = myArray.shift();
